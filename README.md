@@ -1,4 +1,5 @@
 IIICICLO
 ========
 
-trabajos con alumnos de tercer ciclo de computación e informatíca
+
+ se  comenzo  a trabajar  la primera clase con github  en curso de web
